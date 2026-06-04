@@ -6,10 +6,7 @@
 
 ## 🎥 Видеодемонстрация
 
-Видеодемонстрация работы системы
-<video src="demo.mp4" controls width="100%"></video>
-<video src="https://github.com/phantom-wyvern/VKR/blob/main/demo.mp4" controls width="100%"></video>
-
+Видеодемонстрация работы системы в файле demo.mp4
 
 ## Основные возможности
 
